@@ -29,7 +29,7 @@ Usage
 --------
 The data must be stored in a folder that must contains groups, for example:
 
-'''bash
+````console
 Paris_data-
           -train-
                 -subject01
@@ -39,6 +39,6 @@ Paris_data-
                 -subject_04
                 -subject_05
               
-              
+````console               
 On the other hand the subjects folders (subject01,subject02...) must contains all the images for that subject such as: MRI.nii.gz,CT.nii.gz, Mask.nii.gz
 
