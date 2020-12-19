@@ -29,6 +29,7 @@ Usage
 --------
 The data must be stored in a folder that must contains groups, for example:
 
+'''bash
 Paris_data-
           -train-
                 -subject01
